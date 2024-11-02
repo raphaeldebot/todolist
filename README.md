@@ -19,7 +19,7 @@ Cette application est une Todo List intuitive et visuellement attrayante qui per
 
 1. **Clôner le dépôt** :
    ```bash
-   git clone <url-du-dépôt>
+   git clone https://github.com/raphaeldebot/todolist.git
    cd todolist
    ```
 
