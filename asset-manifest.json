@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/todolist/static/js/main.8fc9cbb2.js",
+    "main.js": "/todolist/static/js/main.578e01a6.js",
     "static/media/cherry-blossom-petal.png": "/todolist/static/media/cherry-blossom-petal.3d5d56e2201d2781af4b.png",
     "index.html": "/todolist/index.html"
   },
   "entrypoints": [
-    "static/js/main.8fc9cbb2.js"
+    "static/js/main.578e01a6.js"
   ]
 }
