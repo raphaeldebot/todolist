@@ -9,7 +9,6 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     padding: 0;
     color: ${({ theme }) => theme.colors.text};
-    overflow: hidden; /* Empêche le défilement pour l'animation */
   }
 
   *, *::before, *::after {
